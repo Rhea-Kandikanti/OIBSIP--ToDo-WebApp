@@ -1,0 +1,111 @@
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/703/509/244/stone-hd-1080p-windows-wallpaper-preview.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    border: 2px solid black;
+    border-radius: 20px;
+    color: burlywood;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI502ZhFICYa2DFZLdv3ebcu2mA7TkiXBqRQ&usqp=CAU);
+}
+
+.todos-container {
+    border: 2px solid black;
+    background-image: url(https://cdn.mwallpapers.com/photos/wallpapers/3d-abstract/aesthetic-brown-android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4khd-wallpapers-desktop-background-android-iphone-1080p-4k-jtmep.jpg);
+    padding: 70px 0;
+    border-radius: 25px;
+}
+
+.high-priority .high-priority-checkbox {
+    opacity: 0;
+}
+
+.title {
+    margin: 50px;
+}
+
+.add-div {
+    margin-bottom: 30px;
+}
+
+.todo {
+    margin: 10px;
+}
+
+.low-priority-div .todo-content {
+    background: beige
+}
+
+.todo-content {
+    background: #C11327;
+}
+
+.todo-content {
+    padding: 0;
+}
+
+.disabled-button {
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+.todo-content-value {
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+
+    padding: 0 15px;
+    vertical-align: middle;
+}
+
+.todo-content .completed {
+    text-decoration: line-through;
+}
+
+.todo-buttons .btn {
+    border: 2px solid black;
+    margin-right: 5px;
+}
+
+.todo-buttons .fa-pen {
+    color: black
+}
+
+.add-button {
+    color: black;
+    border: 2px solid black;
+    background-color: #CC7722;
+}
+
+.add-button:hover {
+    color: black;
+    background-color: #B87333;
+}
+
+.fa-eye {
+    transform: scale(-1, 1);
+}
+
+.todos-container-buttons {
+    margin-top: 20px;
+}
+
+.todos-container-buttons .btn {
+    border: 2px solid black;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+.footer {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 50px;
+    background-color: #E5AA70;
+    color: #4A0404;
+    text-align: center;
+}
