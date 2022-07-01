@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 ✨Links of these projecs are given below, feel free to check them out by clicking below:
   
-   Task-1(Calculator) - https://github.com/Rhea-Kandikanti/OIBSIP--Calculator
+   Task-1(Calculator) - https://rhea-kandikanti.github.io/OIBSIP--Calculator/
    
    Task-2(Tribute-Page) - https://rhea-kandikanti.github.io/OIBSIP--Tribute-Page/
 
